@@ -3,7 +3,7 @@
 # CSCB58 Winter 2021 Assembly Final Project
 # University of Toronto, Scarborough
 #
-# Student: Dezhi Ren
+# Author: Dezhi Ren
 #
 # Bitmap Display Configuration: 
 # - Unit width in pixels: 8 
@@ -15,7 +15,7 @@
 # Which milestones have been reached in this submission?
 # - Milestone 4
 #
-# Which approved features have been implemented for milestone 4? 
+# Features in milestone 4: 
 # 1. A: Different levels
 # 2. B: Increase difficulty
 # 3. E: Enemy ship
