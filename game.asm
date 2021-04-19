@@ -3,7 +3,7 @@
 # CSCB58 Winter 2021 Assembly Final Project
 # University of Toronto, Scarborough
 #
-# Student: Dezhi Ren, 1005736795, rendezhi
+# Student: Dezhi Ren
 #
 # Bitmap Display Configuration: 
 # - Unit width in pixels: 8 
@@ -20,15 +20,8 @@
 # 2. B: Increase difficulty
 # 3. E: Enemy ship
 #
-# Link to video demonstration for final submission:
+# Link to video demonstration:
 # - YouTube:  https://youtu.be/fDPrMXWOLEI
-#
-# Are you OK with us sharing the video with people outside course staff?
-# - yes
-#
-# Any additional information that the TA needs to know:
-# - This is the frist time for me to use youtube to upload a video. 
-#   If there is any trouble with the video link, please email me at dezhi.ren@mail.utoronto.ca
 #
 #################################################################################
 
